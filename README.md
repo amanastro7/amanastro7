@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AMAN SHARMA(@amanastro7)
 - 👀 I’m interested in AI, MACHINE LEARNING AND DEEP LEARNING STUFFS
 - 🌱 I’m currently working on My Data Science Projects
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me: astro.aman.boy@gmail.com, 8944888006
 
 <!---
